@@ -1,9 +1,11 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrerakPatelCS&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# Hi Im Prerak Patel
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrerakPatelCS&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrerakPatelCS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrerakPatelCS&theme=tokyonight&margin-w=15&margin-h=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **PrerakPatelCS/PrerakPatelCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
